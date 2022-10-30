@@ -30,7 +30,7 @@
 ### Spotify Playing 🎧
 <p align="center">
   <a href="https://open.spotify.com/user/21vy7n6cnnldz2y2t47dzvpja">
-    <img src=[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21vy7n6cnnldz2y2t47dzvpja&cover_image=true&theme=compact&show_offline=false)](https://github.com/kittinan/spotify-github-profile)>
-
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=21vy7n6cnnldz2y2t47dzvpja&cover_image=true&theme=default&bar_color=b9f0b7)](https://github.com/kittinan/spotify-github-profile">
+              ">
 
 <br />
