@@ -24,7 +24,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />  https://t.me/existe666 ]
+[<img align="left" alt="My discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" /> €xiste#5763  /  https://t.me/existe666 ]
 <br />
 
 ### Spotify Playing 🎧
